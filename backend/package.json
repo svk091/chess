@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/chess.js": "^0.13.7",
+    "@types/node": "^22.1.0",
+    "@types/ws": "^8.5.12",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "chess.js": "^1.0.0-beta.8",
+    "ws": "^8.18.0"
+  }
+}
